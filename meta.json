@@ -1,0 +1,9 @@
+{
+  "repo_key": "ai-jobs-europe",
+  "clusters": [
+    "ai-ml",
+    "data-science"
+  ],
+  "description": "Curated AI, Machine Learning, and NLP jobs from top European companies \u2014 updated daily.",
+  "last_updated": "2026-05-01T08:30:25.292934+00:00"
+}
