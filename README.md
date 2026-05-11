@@ -2,7 +2,7 @@
 
 > Curated AI, ML, and NLP roles at top European companies — updated daily.
 
-> 🔥 **17 new roles added today** &nbsp;·&nbsp; 📈 **4 trending this week** &nbsp;·&nbsp; 🕐 **Updated 11 May 2026, 13:48 UTC**
+> 🔥 **20 new roles added today** &nbsp;·&nbsp; 📈 **6 trending this week** &nbsp;·&nbsp; 🕐 **Updated 11 May 2026, 13:58 UTC**
 
 **[→ Browse all jobs on TieTalent](https://tietalent.com/en/jobs)** &nbsp;·&nbsp; **[Create your free profile — companies apply to you](https://tietalent.com/register)**
 
@@ -72,4 +72,4 @@ TieTalent works differently: **you create one profile, and companies apply to yo
 
 ---
 
-*Updated automatically every day. Last update: 2026-05-11 13:48 UTC*
+*Updated automatically every day. Last update: 2026-05-11 13:58 UTC*
