@@ -1,8 +1,8 @@
 # AI & Machine Learning Jobs in Europe 🤖
 
-> Curated AI, ML, and NLP roles at top European companies — updated daily.
+> Live AI, ML, and data science roles at top European companies — updated daily.
 
-> 🔥 **18 new roles added today** &nbsp;·&nbsp; 📈 **3 trending this week** &nbsp;·&nbsp; 🕐 **Updated 11 May 2026, 14:20 UTC**
+> 🔥 **0 new roles added today** &nbsp;·&nbsp; 📈 **6 trending this week** &nbsp;·&nbsp; 🕐 **Updated 11 May 2026, 14:45 UTC**
 
 **[→ Browse all jobs on TieTalent](https://tietalent.com/en/jobs)** &nbsp;·&nbsp; **[Create your free profile — companies apply to you](https://tietalent.com/register)**
 
@@ -10,37 +10,23 @@
 
 ## 🔥 Featured This Week
 
-| Role | Company | Location | Work | Link |
-|------|---------|----------|------|------|
-| **Ai Engineer** | LightOn | Zurich, Switzerland | Hybrid | [View →](https://tietalent.com/en/jobs/ai-engineer) |
-| **Nlp Engineer** | LightOn | Paris, France | Hybrid | [View →](https://tietalent.com/en/jobs/nlp-engineer) |
-| **Nlp Engineer** | Klarna | Amsterdam, Netherlands | Hybrid | [View →](https://tietalent.com/en/jobs/nlp-engineer) |
-| **Data Engineer** | EPFL | Munich, Germany | Hybrid | [View →](https://tietalent.com/en/jobs/data-engineer) |
-| **Nlp Engineer** | Mistral AI | Zurich, Switzerland | Full remote | [View →](https://tietalent.com/en/jobs/nlp-engineer) |
-| **Computer Vision Engineer** | CERN | Amsterdam, Netherlands | Remote OK | [View →](https://tietalent.com/en/jobs/computer-vision-engineer) |
+_No matching roles at the moment — check back tomorrow._
 
 ---
 
 ## 🆕 Recently Added
 
-| Role | Company | Location | Work | Link |
-|------|---------|----------|------|------|
-| **Nlp Engineer** | Zalando | Geneva, Switzerland | Hybrid | [View →](https://tietalent.com/en/jobs/nlp-engineer) |
-| **Data Scientist** | Criteo | Paris, France | Full remote | [View →](https://tietalent.com/en/jobs/data-scientist) |
-| **Machine Learning Engineer** | Spotify | Munich, Germany | Full remote | [View →](https://tietalent.com/en/jobs/machine-learning-engineer) |
-| **Data Engineer** | LightOn | Remote — Europe | On-site | [View →](https://tietalent.com/en/jobs/data-engineer) |
-| **Nlp Engineer** | Google DeepMind | Paris, France | Hybrid | [View →](https://tietalent.com/en/jobs/nlp-engineer) |
+_No matching roles at the moment — check back tomorrow._
 
 ---
 
-## 🌍 Browse by Role
+## 🌍 Browse by Category
 
-- [Ai Engineer Jobs in Europe](https://tietalent.com/en/jobs/ai-engineer)
-- [Machine Learning Engineer Jobs in Europe](https://tietalent.com/en/jobs/machine-learning-engineer)
-- [Data Scientist Jobs in Europe](https://tietalent.com/en/jobs/data-scientist)
-- [Nlp Engineer Jobs in Europe](https://tietalent.com/en/jobs/nlp-engineer)
-- [Data Engineer Jobs in Europe](https://tietalent.com/en/jobs/data-engineer)
-- [Computer Vision Engineer Jobs in Europe](https://tietalent.com/en/jobs/computer-vision-engineer)
+- [AI Engineer Jobs](https://tietalent.com/en/jobs/ai-engineer)
+- [Machine Learning Engineer Jobs](https://tietalent.com/en/jobs/machine-learning-engineer)
+- [Data Scientist Jobs](https://tietalent.com/en/jobs/data-scientist)
+- [NLP Engineer Jobs](https://tietalent.com/en/jobs/nlp-engineer)
+- [Computer Vision Engineer Jobs](https://tietalent.com/en/jobs/computer-vision-engineer)
 
 ---
 
@@ -68,4 +54,4 @@ TieTalent works differently: **you create one profile, and companies apply to yo
 
 ---
 
-*Updated automatically every day. Last update: 2026-05-11 14:20 UTC*
+*Updated automatically every day. Last update: 2026-05-11 14:45 UTC*
