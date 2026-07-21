@@ -2,7 +2,7 @@
 
 > Live AI, ML, and data science roles at top European companies — updated daily.
 
-> 🔥 **19 new roles added today** &nbsp;·&nbsp; 📈 **7 trending this week** &nbsp;·&nbsp; 🕐 **Updated 20 Jul 2026, 11:41 UTC**
+> 🔥 **31 new roles added today** &nbsp;·&nbsp; 📈 **5 trending this week** &nbsp;·&nbsp; 🕐 **Updated 21 Jul 2026, 11:03 UTC**
 
 **[→ Browse all jobs on TieTalent](https://tietalent.com/en/jobs)** &nbsp;·&nbsp; **[Create your free profile — companies apply to you](https://tietalent.com/register)**
 
@@ -12,12 +12,12 @@
 
 | Role | Company | Location | Work | Link |
 |------|---------|----------|------|------|
+| **AI Engineer** | Mistral AI | Paris, France | Remote OK | [View →](https://tietalent.com/en/jobs/ai-engineer) |
+| **Machine Learning Engineer** | Spotify | Stockholm, Sweden | Remote OK | [View →](https://tietalent.com/en/jobs/machine-learning-engineer) |
+| **MLOps Engineer** | Hugging Face | Paris, France | Remote OK | [View →](https://tietalent.com/en/jobs/machine-learning-engineer) |
+| **LLM Engineer** | Aleph Alpha | Heidelberg, Germany | Hybrid | [View →](https://tietalent.com/en/jobs/machine-learning-engineer) |
 | **Senior ML Engineer** | Klarna | Stockholm, Sweden | Remote OK | [View →](https://tietalent.com/en/jobs/machine-learning-engineer) |
 | **Applied AI Engineer** | Google DeepMind | Zurich, Switzerland | On-site | [View →](https://tietalent.com/en/jobs/ai-engineer) |
-| **AI Engineer** | Mistral AI | Paris, France | Remote OK | [View →](https://tietalent.com/en/jobs/ai-engineer) |
-| **NLP Engineer** | DeepL | Cologne, Germany | Hybrid | [View →](https://tietalent.com/en/jobs/nlp-engineer) |
-| **LLM Engineer** | Aleph Alpha | Heidelberg, Germany | Hybrid | [View →](https://tietalent.com/en/jobs/machine-learning-engineer) |
-| **Data Scientist** | CERN | Geneva, Switzerland | Hybrid | [View →](https://tietalent.com/en/jobs/data-scientist) |
 
 ---
 
@@ -25,11 +25,11 @@
 
 | Role | Company | Location | Work | Link |
 |------|---------|----------|------|------|
-| **MLOps Engineer** | Hugging Face | Paris, France | Remote OK | [View →](https://tietalent.com/en/jobs/machine-learning-engineer) |
 | **Senior Data Scientist** | Booking.com | Amsterdam, Netherlands | Remote OK | [View →](https://tietalent.com/en/jobs/data-scientist) |
 | **Senior AI Engineer** | Cohere | Remote — Europe | Full remote | [View →](https://tietalent.com/en/jobs/ai-engineer) |
+| **Data Scientist** | CERN | Geneva, Switzerland | Hybrid | [View →](https://tietalent.com/en/jobs/data-scientist) |
+| **NLP Engineer** | DeepL | Cologne, Germany | Hybrid | [View →](https://tietalent.com/en/jobs/nlp-engineer) |
 | **Computer Vision Engineer** | Prophesee | Paris, France | Hybrid | [View →](https://tietalent.com/en/jobs/computer-vision-engineer) |
-| **Machine Learning Engineer** | Spotify | Stockholm, Sweden | Remote OK | [View →](https://tietalent.com/en/jobs/machine-learning-engineer) |
 
 ---
 
@@ -68,4 +68,4 @@ TieTalent works differently: **you create one profile, and companies apply to yo
 
 ---
 
-*Updated automatically every day. Last update: 2026-07-20 11:41 UTC*
+*Updated automatically every day. Last update: 2026-07-21 11:03 UTC*
